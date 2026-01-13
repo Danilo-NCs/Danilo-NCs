@@ -3,11 +3,11 @@
 </h1>
 <h3>Desenvolvedor Java-End </h3>
 
-- 💻 Estou aprendendo Java
-- 📞 Contate-me no emal. danilonascimento695@gmail.com
+ 💻 Estou aprendendo Java
+ 📞 Contate-me no emal. danilonascimento695@gmail.com
 
-- ##
-- <div>
+ ##
+ <div>
   <a href="https://github.com/Danilo-NCs"> 
 <img height="42%" src="https://github-readme-stats.vercel.app/api?username=Danilo-NCs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height= 50
